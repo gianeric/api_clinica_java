@@ -1,4 +1,4 @@
-# Java Cloud AWS
+# Java FX
 
 
-This is a study project using Amazon Web Services with the InteliJ platform
+This is a study project using Java FX with the InteliJ platform
